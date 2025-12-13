@@ -63,11 +63,19 @@ Project overview
 
 <img src="images/Overview.png" alt="Project overview" width="50%" style="display: block; margin: 0 auto;">
 
-Auto-generated Document
+AWS S3 bucket storage
+
+<img src="images/S3.png" alt="AWS S3 bucket storage" width="50%" style="display: block; margin: 0 auto;">
+
+Snowflake platform
+
+<img src="images/Snowflake.png" alt="Snowflake platform" width="50%" style="display: block; margin: 0 auto;">
+
+dbt Auto-generated Document
 
 <img src="images/Document.png" alt="Auto-generated Document" width="50%" style="display: block; margin: 0 auto;">
 
-Intuitive Lineage Graph
+dbt Intuitive Lineage Graph
 
 <img src="images/Lineage.png" alt="Intuitive Lineage Graph" width="50%" style="display: block; margin: 0 auto;">
 
