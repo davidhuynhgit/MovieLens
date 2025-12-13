@@ -1,4 +1,4 @@
-# 🎬 MovieLens 20M Data Transformation Project (dbt & ELT)
+# 🎬 MovieLens Project
 
 ## 🚀 Project Overview
 Throughout my studies and early projects, I often worked with static datasets, loading them into tools, performing analysis, and creating visualizations. But I started asking myself: What happens if the data changes constantly? How do I update my analysis efficiently without overwrite raw data? What if the dataset scales to millions of records?*  
@@ -58,9 +58,18 @@ Special thanks to [Darshil Parmar's tutorial](https://www.youtube.com/watch?v=zZ
 
 ---
 
-## 📸 Screenshots
+## 📸 Illustration
+Project overview
 
+<img src="images/Overview.png" alt="Project overview" width="50%" style="display: block; margin: 0 auto;">
 
+Auto-generated Document
+
+<img src="images/Document.png" alt="Auto-generated Document" width="50%" style="display: block; margin: 0 auto;">
+
+Intuitive Lineage Graph
+
+<img src="images/Lineage.png" alt="Intuitive Lineage Graph" width="50%" style="display: block; margin: 0 auto;">
 
 
 
