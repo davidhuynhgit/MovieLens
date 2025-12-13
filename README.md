@@ -1,9 +1,9 @@
 # 🎬 MovieLens Project
 
 ## 🚀 Project Overview
-Throughout my studies and early projects, I often worked with static datasets, loading them into tools, performing analysis, and creating visualizations. But I started asking myself: What happens if the data changes constantly? How do I update my analysis efficiently without overwrite raw data? What if the dataset scales to millions of records?*  
-This project was my answer. Using the MovieLens dataset, I built a full ELT workflow with AWS S3, Snowflake, and dbt to simulate a production-grade data pipeline. My goal was not just to clean and analyze data, but to design a system that can handle updates, track historical changes, and scale reliably.  
-By implementing incremental models, snapshots, testing frameworks, and automated documentation, I gained hands-on experience in transforming raw, messy data into analytics-ready models.
+Throughout my studies and early projects, I often worked with static datasets, loading them into tools, performing analysis, and creating visualizations. But I started asking myself: What happens if the data changes constantly? How do I update my analysis efficiently without overwrite raw data? What if the dataset scales to millions of records?
+
+This project was my answer. Using the MovieLens dataset, I built a full ELT workflow with AWS S3, Snowflake, and dbt to simulate a production-grade data pipeline. My goal was not just to clean and analyze data, but to design a system that can handle updates, track historical changes, and scale reliably. By implementing incremental models, snapshots, testing frameworks, and automated documentation, I gained hands-on experience in transforming raw, messy data into analytics-ready models.
 
 Special thanks to [Darshil Parmar's tutorial](https://www.youtube.com/watch?v=zZVQluYDwYY&t=359s) for guidance on building this amazing project.
 
