@@ -31,7 +31,18 @@ Special thanks to [Darshil Parmar's tutorial](https://www.youtube.com/watch?v=zZ
 
 3. **Data Warehouse Connection**
    - Set up Snowflake as the target warehouse.  
-   - Generate profile to allow dbt to connect to Snowflake.  
+   - Generate profile to allow dbt to connect to Snowflake.
+  
+4. **Data Modelling**
+   - Setup constrain and schema in yaml files.
+   - Materialise tables and views from staging phase to dim, fact, mart, etc.
+   - Deploy additional features such as seeds, snapshots, macros, and documentation.
+   
+5. **Data Analysis**
+   - Link data from Snowflake and transform into PowerBI environment.
+   - Correct data type and relationship, add DAX measure to support visualisation.
+   - Design dashboard with appropriate charts and filters to reveal meaningful insights.
+   - Visit my dashboard at [my MovieLens Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMzFlZmE5ZTItNWE1Zi00OWIyLWFlMDktZWQ3NzVjNTQ2OGIwIiwidCI6IjFjYTRjNDdkLTU4ODEtNDE3Zi1iY2U0LTY2ZDNhMDZlMzk0MSJ9])
 
 ---
 
@@ -78,6 +89,10 @@ dbt Auto-generated Document
 dbt Intuitive Lineage Graph
 
 <img src="images/Lineage.png" alt="Intuitive Lineage Graph" width="50%" style="display: block; margin: 0 auto;">
+
+PowerBI dashboard
+
+<img src="images/PowerBI_Dashboard.png" alt="PowerBI dashboard" width="50%" style="display: block; margin: 0 auto;">
 
 
 
