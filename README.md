@@ -42,7 +42,7 @@ Special thanks to [Darshil Parmar's tutorial](https://www.youtube.com/watch?v=zZ
    - Link data from Snowflake and transform into PowerBI environment.
    - Correct data type and relationship, add DAX measure to support visualisation.
    - Design dashboard with appropriate charts and filters to reveal meaningful insights.
-   - Visit my dashboard at [my MovieLens Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiMzFlZmE5ZTItNWE1Zi00OWIyLWFlMDktZWQ3NzVjNTQ2OGIwIiwidCI6IjFjYTRjNDdkLTU4ODEtNDE3Zi1iY2U0LTY2ZDNhMDZlMzk0MSJ9])
+   - Visit my dashboard at [my MovieLens Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzFlZmE5ZTItNWE1Zi00OWIyLWFlMDktZWQ3NzVjNTQ2OGIwIiwidCI6IjFjYTRjNDdkLTU4ODEtNDE3Zi1iY2U0LTY2ZDNhMDZlMzk0MSJ9)
 
 ---
 
